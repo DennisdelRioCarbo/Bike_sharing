@@ -1,11 +1,11 @@
 # Bike_sharing
 
-##The following analysis provides support to start a bike-sharing company in Des-Moines.
+## The following analysis provides support to start a bike-sharing company in Des-Moines.
 
-##Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results: 
 [Bikesharing](https://public.tableau.com/app/profile/dennis7823/viz/Bikesharing2_16593135416020/Story1?publish=yes )
 
-##Summary: 
+## Summary: 
 * Most rides are carried out by subscribers.
 * Rides are under an hour in duration.
 * Riding is carried out in a relative small area of the city which is also explained by the short duration of each rides.
