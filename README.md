@@ -1,6 +1,6 @@
 # Bike_sharing
 
-## The following analysis provides support to start a bike-sharing company in Des-Moines.
+## The following bike trip analysis provides support to start a bike-sharing company in Des-Moines by analyzing  data from CitiBike in New York City.
 
 ## Results: 
 [Bikesharing](https://public.tableau.com/app/profile/dennis7823/viz/Bikesharing2_16593135416020/Story1?publish=yes )
