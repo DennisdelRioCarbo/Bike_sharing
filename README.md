@@ -15,9 +15,8 @@
   - From Monday to Friday between 5:00 pm and 7:00 pm.
   - Saturdays and Sundays between 10:00 am and 5:00 pm.
 * Usage seems more steady during the weekend whereas weekdays see more peak hour usage.
-This suggest that during the weekday people use the bike to commute to and from work and maybe run some errands after work. Weekend usage could suggest more recreational users or non subscribers.
+This suggest that during the weekday people use the bike to commute to and from work and maybe run some errands after work. Weekend usage could mean more recreational riding. 
 * The fact that around 80% of riders are subscribers could mean that there is steady revenue for the company.
-
-* Additional visualizations would be needed to establish the relationship between type of user and trip by weekday by hour to determine if subscribers use the bike during weekdays and customers use them more during the weekend.
+* More visualizations would be needed to establish the relationship between age and ridership and type of customer by age and also between age and gender.
 * More data and further analysis would be needed to determine why most rides are carried out by males which also presents a business opportunity if we could get more female riders to ride or subscribe more to the service.
 
